@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "id": "1739991421306",
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "$2b$10$HpQIjaMuDM7QO98oeugsXurpOhfzM7q48s99ZodG7zuLQcgPtcBDS"
+    },
+    {
+      "id": "1739920182722",
+      "name": "mohamed",
+      "email": "Mohamed@mail.com",
+      "password": "$2b$10$bAaJWKHvvqBEXKp8qOoBuuQ3RJhzV394JlQgtVcVgeCfdzzRUHaXe"
+    },
+    {
+      "id": "3",
+      "name": "momo",
+      "email": "Momo@g.com",
+      "password": "$2b$10$l0LqzXN.KcMdez8gg9YSeOVnFpaKgI7.JxgKEOafhKJrG7Kllx6ru"
+    },
+    {
+      "id": "1739981897254",
+      "name": "messi",
+      "email": "messi@yahoo.com",
+      "password": "$2b$10$kdv.H9f6PiqxHwwP4eJhwOnMFU93dnkhsKio4ZuZtk2CXiqW2Z0.2"
+    },
+    {
+      "id": "1739991272047",
+      "name": "test",
+      "email": "test@test.com",
+      "password": "$2b$10$2AT2oi4i2Ju2ZprQB3eQ2OtZfZvD0KLQ79RJ672VCx.iJXf/FSPuC"
+    }
+  ],
+  "products": [
+    {
+      "id": "0dd4",
+      "name": "bvate 14\" Laptop",
+      "price": "799",
+      "category": "Laptop",
+      "quantity": "22",
+      "description": "bvate 14\" Laptop Win 11 256GB SSD Up to 1TB SSD Expand Celeron N4020 Up to 2.8Ghz Dual-Core Processor 6GB DDR4 1920x1080 FHD Dual WiFi BT4.2 with Webcam.",
+      "image": "https://m.media-amazon.com/images/I/71foIEZhgmL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "af3f",
+      "name": "SAMSUNG Galaxy S25 Ultra",
+      "price": "1200",
+      "category": "Mobile",
+      "quantity": "65",
+      "description": "SAMSUNG Galaxy S25 Ultra Cell Phone, 512GB, AI Smartphone, Unlocked Android, AI Camera, Fast Processor, Long Battery Life, 2025, Titanium Silverblue\n",
+      "image": "https://m.media-amazon.com/images/I/71bWBcWQnDL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "c6b4",
+      "name": "Meta Quest 3S",
+      "price": "451",
+      "category": "Headset",
+      "quantity": "10",
+      "description": "Meta Quest 3S 128GB — Get Batman: Arkham Shadow and a 3-Month Trial of Meta Quest+ Included — All-in-One Headset\n",
+      "image": "https://m.media-amazon.com/images/I/71W5GcQ8-JL._SL1500_.jpg"
+    },
+    {
+      "id": "c612",
+      "name": "Coolby 15.6inch",
+      "price": "450",
+      "category": "Laptop",
+      "quantity": "33",
+      "description": "Coolby 15.6inch Windows 11 Laptop, 12GB RAM/256GB SSD, 1920x1080 IPS Display, Intel N95(Beats N5095) Quad Core Laptop Computer, Support Fingerprint, WiFi 5, BT",
+      "image": "https://m.media-amazon.com/images/I/710+IqmUdlL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "e5a7",
+      "name": "Apple Carplay Screen",
+      "price": "99",
+      "category": "Screen",
+      "quantity": "50",
+      "description": "Apple Carplay Screen for Car, 7\" HD Portable Car Stereo Touch Screen with Wireless Android Auto, Backup Camera, Car Audio Receivers with Voice Control,...\n",
+      "image": "https://m.media-amazon.com/images/I/715LHnNFNmL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "24d5",
+      "name": "Orzly Gaming Headset ",
+      "price": "320",
+      "category": "Headset",
+      "quantity": "13",
+      "description": "Orzly Gaming Headset with Mic for Nintendo Switch OLED and Lite Joycon Color Match with Led Light Microphone & Remote - Hornet RXH-20 Tanami Edition",
+      "image": "https://m.media-amazon.com/images/I/61KnD1IvqsL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Cup of tea",
+      "price": "120",
+      "category": "tea",
+      "quantity": 20,
+      "description": "Hot Tea in a Glass on Wooden Table\n",
+      "image": "https://images.pexels.com/photos/28643910/pexels-photo-28643910/free-photo-of-steaming-hot-tea-in-a-glass-on-wooden-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "4",
+      "name": "Pentax camera",
+      "price": "1250",
+      "category": "camera",
+      "quantity": "2",
+      "description": "A Black and Silver Vintage Camera",
+      "image": "https://images.pexels.com/photos/7727508/pexels-photo-7727508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "5",
+      "name": "Vintage Classic Skull",
+      "price": "255",
+      "category": "Hat",
+      "quantity": 20,
+      "description": "Vintage Classic Skull Cap Embroidery Beanie Fasion Hat Cuffed Winter Hat Knit Comes with Warm Gloves Gifts for Men Women Fans",
+      "image": "https://m.media-amazon.com/images/I/812Mky3zXIL._AC_SX522_.jpg"
+    },
+    {
+      "id": "7414",
+      "name": "White Nike Sneakers",
+      "price": "222",
+      "category": "shoes",
+      "quantity": "12",
+      "description": "Photo of Sneakers on White Background",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "2",
+      "name": "Coffee paper cup",
+      "price": "12",
+      "category": "coffee cup",
+      "quantity": "99",
+      "description": "Panda Printed Paper Coffee Cup",
+      "image": "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "e002",
+      "name": "Ozeino Gaming Headset ",
+      "price": "650",
+      "category": "Headset",
+      "quantity": "98",
+      "description": "Gaming Headset for PC, Ps4, Ps5, Xbox",
+      "image": "https://m.media-amazon.com/images/I/712OyBPPL0L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "97d7",
+      "name": "Sceptre Curved screen",
+      "price": "789",
+      "category": "screen",
+      "quantity": "154",
+      "description": "Sceptre Curved 24.5-inch Gaming Monitor\n",
+      "image": "https://m.media-amazon.com/images/I/71P1MZ8ztDL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "185b",
+      "name": "Nintendo Switch™",
+      "price": "333",
+      "category": "hybrid video game console",
+      "quantity": "752",
+      "description": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™",
+      "image": "https://m.media-amazon.com/images/I/61zf9ciI0ML._SL1500_.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "name": "Pentax camera",
+      "price": "1250",
+      "image": "https://images.pexels.com/photos/7727508/pexels-photo-7727508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "quantity": 1
+    },
+    {
+      "id": "7414",
+      "name": "White Nike Sneakers",
+      "price": "222",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "quantity": 3
+    },
+    {
+      "id": "3",
+      "name": "Cup of tea",
+      "price": "120",
+      "image": "https://images.pexels.com/photos/28643910/pexels-photo-28643910/free-photo-of-steaming-hot-tea-in-a-glass-on-wooden-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "name": "Coffee paper cup",
+      "price": "12",
+      "image": "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "quantity": 1
+    },
+    {
+      "id": "af3f",
+      "name": "SAMSUNG Galaxy S25 Ultra",
+      "price": "1200",
+      "image": "https://m.media-amazon.com/images/I/71bWBcWQnDL._AC_SL1500_.jpg",
+      "quantity": 6
+    },
+    {
+      "id": "97d7",
+      "name": "Sceptre Curved screen",
+      "price": "789",
+      "image": "https://m.media-amazon.com/images/I/71P1MZ8ztDL._AC_SL1500_.jpg",
+      "quantity": 1
+    }
+  ]
+}

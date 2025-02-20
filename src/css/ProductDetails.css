@@ -1,0 +1,140 @@
+.product-details-container {
+    padding: 4rem 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.back-button {
+    display: inline-flex;
+    align-items: center;
+    color: #2c3e50;
+    text-decoration: none;
+    margin-bottom: 2rem;
+    transition: all 0.3s ease;
+}
+
+.back-button:hover {
+    color: #3498db;
+    transform: translateX(-5px);
+}
+
+.luxury-product-card {
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.luxury-product-card:hover {
+    transform: translateY(-5px);
+}
+
+.product-image-wrapper {
+    position: relative;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.product-image {
+    border-radius: 15px;
+    height: 400px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.product-image:hover {
+    transform: scale(1.03);
+}
+
+.product-rating {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background: linear-gradient(45deg, #3498db, #2c3e50);
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.1rem;
+    color: white;
+}
+
+.star-icon {
+    color: #ffd700;
+}
+
+.product-details-body {
+    padding: 2rem;
+}
+
+.product-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 1.5rem;
+}
+
+.product-price {
+    font-size: 1.8rem;
+    color: #3498db;
+    margin-top: 0.5rem;
+}
+
+.product-meta {
+    background: #f8f9fa;
+    border-radius: 15px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 0.8rem 0;
+    color: #6c757d;
+}
+
+.meta-icon {
+    color: #3498db;
+    font-size: 1.2rem;
+}
+
+.product-description {
+    background: #fff;
+    border-left: 4px solid #3498db;
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    color: #495057;
+}
+
+.description-icon {
+    margin-right: 1rem;
+    color: #3498db;
+}
+
+.gradient-button {
+    background: linear-gradient(135deg, #3498db, #2c3e50);
+    color: white !important;
+    padding: 0.8rem 2rem;
+    border-radius: 30px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.8rem;
+    transition: all 0.3s ease;
+}
+
+.gradient-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.action-buttons {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+}
